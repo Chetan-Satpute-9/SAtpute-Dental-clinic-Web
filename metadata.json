@@ -1,0 +1,7 @@
+{
+  "name": "Satpute Dental Clinic - Pain-Free Dentistry in Katol",
+  "description": "High-converting dental clinic website for Dr. Chetan V. Satpute, specializing in clinical endodontics and pain-free treatments in Katol, Maharashtra.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
